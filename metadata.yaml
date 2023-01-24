@@ -1,0 +1,12 @@
+id: com.echkode.pbmods.baseactionhotkeys
+ver: 1
+includesConfigOverrides: false
+includesConfigEdits: true
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin:
+gameVersionMax:
+name: Base Action Hot Keys
+desc: Restore missing hot keys for cruise/stealth/overdrive
