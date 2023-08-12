@@ -1,5 +1,7 @@
 # BaseActionHotKeys
 
+**This mod is obsolete.** The game has been patched by the publisher so this is no longer a problem.
+
 A configuration mod for [Phantom Brigade (Alpha)](https://braceyourselfgames.com/phantom-brigade/) that restores the hotkeys for the cruise/stealth/overdrive movement modes in the overworld map.
 
 Patch 0.23.1-b5426 made some changes to the input system to allow key rebinding which is great. Unfortunately, a few config file changes needed to match the code changes didn't make it into the release. But that's what the experimental releases are for, to test out and catch things like this.
